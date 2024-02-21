@@ -1,10 +1,10 @@
-Todoapp ( Reactjs + Firebase )
-DEMO : https://todoappreactjsfirebase.netlify.app
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Todoapp ( Reactjs + Firebase )<br />
+DEMO : https://todoappreactjsfirebase.netlify.app<br />
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
 
-SETUP:
-#using CMD/git
-#1- git clone https://github.com/4shraf4iman/todoap.git
-#2- cd todoapp
-#3- npm install
-#4- npm start
+SETUP:<br />
+#using CMD/git<br />
+#1- git clone https://github.com/4shraf4iman/todoap.git<br />
+#2- cd todoapp<br />
+#3- npm install<br />
+#4- npm start<br />
